@@ -45,9 +45,11 @@
 
 
 
-# 👋 Hi, I'm Vaibhav  
+<h1 align="center">Hi 👋, I'm Amogsidha Burhanpure</h1>
 
-## 🔥 Python Developer Intern @ PJSoftTech  
+
+
+   🔥 Python Developer Intern @ PJSoftTech  
 
 ---
 
