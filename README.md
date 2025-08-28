@@ -14,7 +14,7 @@
 - 🤖 Currently working on Machine Learning to develop practical skills in predictive modeling and analytics.  
 
 ## 📫 Connect With Me
-- [LinkedIn]https://www.linkedin.com/in/amogsiddh-burhanpure-a9363928a/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogsiddh-burhanpure-a9363928a/)
 - 📧 *Email:* amogsidhaburhanpure@gmail.com
 
 ## 🛠 Languages and Tools
