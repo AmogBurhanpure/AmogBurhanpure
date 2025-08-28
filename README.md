@@ -44,27 +44,5 @@
 
 
 
-
-<h1 align="center">Hi 👋, I'm Amogsidha Burhanpure</h1>
-
-
-
-             🔥 Python Developer Intern @ PJSoftTech  
-
----
-
-## 👨‍💻 About Me  
-- 🎓 B.E. in Artificial Intelligence & Data Science  
-- 📊 Skilled in **Python, SQL, Power BI, Tableau, and Excel**  
-- 🏅 Completed a Diploma in Data Science and Analytics from Gamaka AI Training Institute with an A+ grade.  
-- 💡 Passionate about **data-driven decision making**  
-- 🤖 Currently working on **Machine Learning** to develop practical skills in predictive modeling and analytics.  
-
----
-
-📫 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-id/)  
-- [Portfolio](https://your-portfolio-link.com)  
-- [GitHub](https://github.com/your-github-username)  
-- 📧 Email: [karalevaibhav@gmail.com](mailto:karalevaibhav@gmail.com)  
+  
 
