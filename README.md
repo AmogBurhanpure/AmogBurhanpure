@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Vaibhav</h1>
+<h1 align="center">👋 Hi, I'm Amogsiddha Burhanpure</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=Data+Analyst;Data+Scientist;Python+Developer" />
@@ -7,16 +7,16 @@
 <h3 align="center" style="color:#4CAF50;">📊 Python Developer Intern @ PJSoftTech</h3>
 
 ## 🧑‍💻 About Me
-- 🎓 B.E. in Artificial Intelligence & Data Science  
+- 🎓 B.E. in Artificial Intelligence & Machine Learning 
 - 📊 Skilled in *Python, **SQL, **Power BI, **Tableau, and **Excel*  
 - 🏆 Completed a Diploma in Data Science and Analytics from Gamaka AI Training Institute with an A+ grade.  
 - 💡 Passionate about *data-driven decision making*  
 - 🤖 Currently working on Machine Learning to develop practical skills in predictive modeling and analytics.  
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/vaibhavkarale/)  
-- [Portfolio](https://vaibhavkarale1011.github.io/)  
-- 📧 *Email:* karalevaibhav@gmail.com  
+- [LinkedIn] https://www.linkedin.com/in/amogsiddh-burhanpure-a9363928a/
+
+- 📧 *Email:* amogsidhaburhanpure@gmail.com
 
 ## 🛠 Languages and Tools
 <hr/>
