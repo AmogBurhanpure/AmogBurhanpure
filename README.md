@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amogsidha Burhanpure</h1>
+
+
+
 <h3 align="center">Data Analyst | Passionate about Problem Solving and Programming</h3>
 
 - 🧠 I’m skilled in **SQl, PowerBi, Excel, Tableau, MySQL**
@@ -42,23 +45,24 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Amogsidha Burhanpure</h1>
+# 👋 Hi, I'm Vaibhav  
 
+## 🔥 Python Developer Intern @ PJSoftTech  
 
-📊 Data Analyst Intern @ MITCON
+---
 
+## 👨‍💻 About Me  
+- 🎓 B.E. in Artificial Intelligence & Data Science  
+- 📊 Skilled in **Python, SQL, Power BI, Tableau, and Excel**  
+- 🏅 Completed a Diploma in Data Science and Analytics from Gamaka AI Training Institute with an A+ grade.  
+- 💡 Passionate about **data-driven decision making**  
+- 🤖 Currently working on **Machine Learning** to develop practical skills in predictive modeling and analytics.  
 
-🧑‍💻 About Me
+---
 
-🎓 Data Analyst Intern @ MITCON Consultancy & Engineering Services Ltd.
+📫 Connect With Me  
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-id/)  
+- [Portfolio](https://your-portfolio-link.com)  
+- [GitHub](https://github.com/your-github-username)  
+- 📧 Email: [karalevaibhav@gmail.com](mailto:karalevaibhav@gmail.com)  
 
-📊 Skilled in Python, SQL, Power BI, Tableau and Excel
-
-🏆 Completing a Data Science course at MITCON with an A+ grade.
-
-💡 Passionate about data-driven decision making
-
-🤖 Currently working on Machine Learning to develop practical skills in predictive modeling and 
-analytics.
-
-📫 Connect With Me
