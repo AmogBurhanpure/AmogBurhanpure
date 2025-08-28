@@ -49,7 +49,7 @@
 
 
 
-   🔥 Python Developer Intern @ PJSoftTech  
+             🔥 Python Developer Intern @ PJSoftTech  
 
 ---
 
