@@ -46,6 +46,8 @@
 
 
 📊 Data Analyst Intern @ MITCON
+
+
 🧑‍💻 About Me
 
 🎓 Data Analyst Intern @ MITCON Consultancy & Engineering Services Ltd.
