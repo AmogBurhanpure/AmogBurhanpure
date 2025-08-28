@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 - 🎓 B.E. in Artificial Intelligence & Machine Learning 
 - 📊 Skilled in *Python, **SQL, **Power BI, **Tableau, and **Excel*  
-- 🏆 Completed a Diploma in Data Science and Analytics from Gamaka AI Training Institute with an A+ grade.  
+- 🏆 Completed a Course in Data Science and Analytics from it Preneur Training Institute with an A+ grade.  
 - 💡 Passionate about *data-driven decision making*  
 - 🤖 Currently working on Machine Learning to develop practical skills in predictive modeling and analytics.  
 
