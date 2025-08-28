@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=Data+Analyst;Data+Scientist;Python+Developer" />
 </p>
 
-<h3 align="center" style="color:#4CAF50;">📊 Python Developer Intern @ PJSoftTech</h3>
+<h3 align="center" style="color:#4CAF50;">📊 Data Analyst @ PJSoftTech</h3>
 
 ## 🧑‍💻 About Me
 - 🎓 B.E. in Artificial Intelligence & Machine Learning 
